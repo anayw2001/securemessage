@@ -29,7 +29,7 @@
 #include <memory>
 #include <vector>
 
-#include "securemessage/common.h"
+#include "cpp/include/securemessage/common.h"
 
 namespace securemessage {
 

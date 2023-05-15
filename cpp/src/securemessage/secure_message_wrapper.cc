@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-#include "securemessage/secure_message_wrapper.h"
+#include "cpp/include/securemessage/secure_message_wrapper.h"
 
 #include "proto/securemessage.pb.h"
-#include "securemessage/util.h"
+#include "cpp/include/securemessage/util.h"
 
 namespace securemessage {
 

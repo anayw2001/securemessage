@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "securemessage/byte_buffer.h"
+#include "cpp/include/securemessage/byte_buffer.h"
 
 #include <climits>
 #include <cstring>

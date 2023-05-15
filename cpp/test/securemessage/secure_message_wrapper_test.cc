@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "securemessage/secure_message_wrapper.h"
+#include "cpp/include/securemessage/secure_message_wrapper.h"
 
 #include <gtest/gtest.h>
 

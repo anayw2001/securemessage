@@ -20,10 +20,10 @@
 //
 // @see RawSecureMessageBuilder
 
-#include "securemessage/raw_secure_message_parser.h"
+#include "cpp/include/securemessage/raw_secure_message_parser.h"
 
-#include "securemessage/secure_message_wrapper.h"
-#include "securemessage/util.h"
+#include "cpp/include/securemessage/secure_message_wrapper.h"
+#include "cpp/include/securemessage/util.h"
 
 using std::unique_ptr;
 

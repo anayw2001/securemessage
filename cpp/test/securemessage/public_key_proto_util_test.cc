@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "securemessage/public_key_proto_util.h"
+#include "cpp/include/securemessage/public_key_proto_util.h"
 
 #include <gtest/gtest.h>
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "securemessage/secure_message_parser.h"
+#include "cpp/include/securemessage/secure_message_parser.h"
 
 #include <gtest/gtest.h>
 

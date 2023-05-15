@@ -34,9 +34,9 @@
 #include <memory>
 #include <string>
 
-#include "securemessage/byte_buffer.h"
-#include "securemessage/crypto_ops.h"
-#include "securemessage/util.h"
+#include "cpp/include/securemessage/byte_buffer.h"
+#include "cpp/include/securemessage/crypto_ops.h"
+#include "cpp/include/securemessage/util.h"
 
 #if defined(OPENSSL_IS_BORINGSSL)
 #include <openssl/bytestring.h>

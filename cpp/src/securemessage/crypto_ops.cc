@@ -22,9 +22,9 @@
 
 #include <stddef.h>
 
-#include "securemessage/crypto_ops.h"
-#include "securemessage/secure_message_wrapper.h"
-#include "securemessage/util.h"
+#include "cpp/include/securemessage/crypto_ops.h"
+#include "cpp/include/securemessage/secure_message_wrapper.h"
+#include "cpp/include/securemessage/util.h"
 
 using std::unique_ptr;
 

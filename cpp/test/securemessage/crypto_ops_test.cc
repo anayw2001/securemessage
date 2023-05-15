@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "securemessage/crypto_ops.h"
+#include "cpp/include/securemessage/crypto_ops.h"
 
 #include <gtest/gtest.h>
 #include <gtest/gtest-message.h>

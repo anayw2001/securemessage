@@ -19,8 +19,8 @@
 
 #include <memory>
 
-#include "securemessage/common.h"
-#include "securemessage/crypto_ops.h"
+#include "cpp/include/securemessage/common.h"
+#include "cpp/include/securemessage/crypto_ops.h"
 
 namespace securemessage {
 

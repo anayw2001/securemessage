@@ -21,8 +21,8 @@
 #include <memory>
 #include <string>
 
-#include "securemessage/byte_buffer.h"
-#include "securemessage/common.h"
+#include "cpp/include/securemessage/byte_buffer.h"
+#include "cpp/include/securemessage/common.h"
 
 namespace securemessage {
 
