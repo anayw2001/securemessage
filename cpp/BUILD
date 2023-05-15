@@ -8,6 +8,7 @@ cc_library(
         ":securemessage_common",
         "@boringssl//:crypto",
     ],
+    visibility = ["//visibility:public"],
 )
 
 cc_library(
@@ -26,6 +27,7 @@ cc_library(
         "include/securemessage/raw_secure_message_parser.h",
         "include/securemessage/util.h",
     ],
+    visibility = ["//visibility:public"],
 )
 
 SECUREMESSAGE_CPP_PROTOBUF_SRCS = [
@@ -53,6 +55,7 @@ cc_library(
         ":securemessage_common",
         "//proto:securemessage_cc_proto",
     ],
+    visibility = ["//visibility:public"],
 )
 
 cc_test(
